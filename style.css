@@ -1,4 +1,4 @@
-/* Import a fun, pixelated font from Google Fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 /* General Styles */
@@ -23,7 +23,7 @@ body {
 /* Scrollable Question Navigation */
 .question-nav {
     width: 250px;
-    background: #4a6958;
+    background: #222;
     padding: 15px;
     border-radius: 10px;
     overflow-y: auto;
