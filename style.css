@@ -6,7 +6,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #272b47;
+    background-color: #003359;
     color: white;
     display: flex;
     justify-content: center;
@@ -50,8 +50,8 @@ body {
 }
 
 .question-nav li.active {
-    background-color: #00ff99;
-    color: #222;
+    background-color: #0077b6;
+    color: #ffffff;
     font-weight: bold;
 }
 
